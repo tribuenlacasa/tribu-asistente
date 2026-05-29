@@ -1,4 +1,4 @@
-const APPS_SCRIPT_BASE_URL = 'PEGAR_URL_WEB_APP';
+const APPS_SCRIPT_BASE_URL = 'https://script.google.com/macros/s/AKfycbz0RtWBooE83gRtE7n47kyQBX8oQOxuZCfGAeRzSWA8KzZRoiuC5CvvitoHIbjRpquJ/exec';
 const DEFAULT_EVENT_ID = '';
 
 let context = { eventId: '', token: '', info: null };
